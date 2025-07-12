@@ -1,1 +1,1 @@
-# Fake-News-Detection-Tool
+Fake News Detection is a tool developed by us to counter Fake News . By using it we can find which article or text is Real and Fake by simply giving the text or article link . In the line 34 and 35 of the tool . You have to give the location of the dataset you are using to train the tool . In this case I used Kaggle both Politifact_fake.csv and Politifact_real.csv . You can also use other datasets like LIAR dataset . After giving the right location of the dataset to the tool it will work correctly.
